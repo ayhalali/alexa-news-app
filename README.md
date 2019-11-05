@@ -6,7 +6,10 @@
 
 ![team slide](https://github.com/RaghunandanKumar/mvc-app/blob/master/Group.PNG)
 
-## Workshop Guide
+## Sited Presentation
+- [PPT](https://github.com/RaghunandanKumar/alexa-news-app/blob/master/docs/Alexa%20presentation.pptx)
+- [Code example](https://github.com/RaghunandanKumar/alexa-news-app/blob/master/sample%20code/Lamba%20function%20code.js)
+- [Workshop Guide](https://www.creativebloq.com/how-to/create-an-alexa-skill-for-your-site) 
 
 
 ## Video Tutorial
