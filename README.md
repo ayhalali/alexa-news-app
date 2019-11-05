@@ -1,8 +1,21 @@
-# Alexa Web Update
+# alexa news app
 
-<p>Alexa Project - HTML - Folder contains HTML and JS for the News Page<br>
-index.js - This contains the code for AWS Lambda</p>
+- [Repository URL](https://github.com/RaghunandanKumar/alexa-news-app)
+ 
+## Group Members
 
-<p>You will need to add your own Firebase config details to main.js (Alexa Project - HTML/main.js)<br>
-You will need to add your own News API key to index.html (Alexa Project - HTML/index.html)<br>
-You will need to add your own Firebase config details to main.js (index.js)<p>
+![team slide](https://github.com/RaghunandanKumar/mvc-app/blob/master/Group.PNG)
+
+## Workshop Guide
+
+
+## Video Tutorial
+- [You Tube tutorial](https://www.youtube.com/watch?v=BB3wwxgqPOU)
+
+## Refernce Links
+
+- [Alexa skill tutorial using node.js](https://www.jovo.tech/tutorials/alexa-skill-tutorial-nodejs)
+- [Create an alexa skill for your site](https://www.creativebloq.com/how-to/create-an-alexa-skill-for-your-site)
+- Server hosted in heroku using Anil Bomma’s JSON file.
+
+
