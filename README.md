@@ -19,6 +19,6 @@
 
 - [Alexa skill tutorial using node.js](https://www.jovo.tech/tutorials/alexa-skill-tutorial-nodejs)
 - [Create an alexa skill for your site](https://www.creativebloq.com/how-to/create-an-alexa-skill-for-your-site)
-- Server hosted in heroku using Anil Bomma’s JSON file.
+- [Source code for server hosted in Anil's heroku](https://github.com/anil-bomma/node-express-app)
 
 
